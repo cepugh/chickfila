@@ -1,0 +1,26 @@
+.ui.mini.borderless.topmenu.inverted.menu{
+  box-shadow: none;
+  border: none;
+  background-color: #000040;
+  color: white;
+  padding-bottom: 0px;
+}
+
+.ui.borderless.inverted.menu{
+  box-shadow: none;
+  border: none;
+  background-color: #122b5e;
+}
+.ui.attached.borderless.inverted.menu.parttwo{
+  background-color: #343434;
+}
+.redbull-background{
+  background-color: #07194e;
+  color: white;
+}
+.ui.attached.borderless.menu.inverted.bottommenu{
+  background-color: #07194e;
+  box-shadow: none;
+  border: none;
+  color: white;
+}
